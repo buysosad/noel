@@ -19,7 +19,7 @@ function loadingVisible() {
 }
 
 /* Scroll Title Begin */
-var scrl = "Giáng sinh vui vẻ! ";
+var scrl = "QuynhAnh! ";
 function scrlsts() {
     scrl = scrl.substring(1, scrl.length) + scrl.substring(0, 1);
     document.title = scrl;
@@ -195,7 +195,7 @@ $(document).ready(function() {
                     $(".message").typed({
                         strings: [
                         "<<< Merry Christmas >>>",
-                        "Giáng sinh zui ze nha HACKATO!!!, Chúc bản thân luôn thành công trên con đường đã chọn. Một mùa noel thật ấm áp nha.",
+                        "Giáng sinh zui ze nha QAnh!!!, Chúc em một mùa giáng sinh thật vui vẻ và một mùa thi thật tốt nè. Luôn hạnh phúc bên gia đình và người em thương nhó. (65 110 104 32 115 7869 32 273 7907 105 32 101 109 !)",
                         ],
                         typeSpeed: 250,
                         startDelay: 500,
